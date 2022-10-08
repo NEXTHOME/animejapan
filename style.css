@@ -512,6 +512,7 @@ a {
     border: none;
     display: block;
     outline: 0;
+    margin-top: 17px;
 }
 
 .w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click {
