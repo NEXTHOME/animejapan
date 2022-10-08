@@ -375,6 +375,11 @@ a {
     position: relative
 }
 
+..w3-display-container:hover{
+    opacity: 0.6;
+    margin-top: 5px;
+}
+
 .w3-tooltip .w3-text {
     display: none
 }
