@@ -511,7 +511,7 @@ a {
     width: auto;
     border: none;
     display: block;
-    outline: 0
+    outline: 0;
 }
 
 .w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click {
@@ -520,7 +520,7 @@ a {
 }
 
 .w3-bar .w3-button {
-    white-space: normal
+    white-space: normal;
 }
 
 .w3-bar-block .w3-bar-item {
@@ -1369,8 +1369,8 @@ a {
 }
 
 .w3-button:hover {
-    color: #000!important;
-    background-color: #ccc!important
+    color: #fff!important;
+    background-color: #686de0 !important;
 }
 
 .w3-transparent,.w3-hover-none:hover {
@@ -1488,8 +1488,8 @@ a {
 }
 
 .w3-white,.w3-hover-white:hover {
-    color: #000!important;
-    background-color: #fff!important
+    color: #fff!important;
+    background-color: #000000!important;
 }
 
 .w3-black,.w3-hover-black:hover {
